@@ -5,8 +5,8 @@ An open source antispam and automod bot meant to server as a handy utility for s
 ## Credits
 
 ### Developers
-C.#3941 - CadetMercury615
-Vernox#7534 - Vernox-MC
+- C.#3941 - CadetMercury615
+- Vernox#7534 - Vernox-MC
 
 ### Resources (Used directly or ported to Deno)
 - Deno Runtime (Secure TS/JS Runtime) - https://github.com/denoland/deno
