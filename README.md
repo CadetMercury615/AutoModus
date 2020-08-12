@@ -13,4 +13,4 @@ An open source antispam and automod bot meant to server as a handy utility for s
 
 - Nitro (Performant Discord Framework) - https://github.com/Bavfalcon9/Nitro
 
-- Discord Anti-Raid (A versatile antiraid library) - https://github.com/CadetMercury615/Discord-AntiRaid (v1) & https://github.com/CadetMercury615/Discord-AntiRaid-v3 (v3, privated)  
+- Discord Anti-Raid (A versatile antiraid library) - https://github.com/CadetMercury615/Discord-AntiRaid (v1 and v2) & https://github.com/CadetMercury615/Discord-AntiRaid-v3 (private, v3)  
